@@ -1,0 +1,12 @@
+@relation body_type
+
+@attribute Height numeric
+@attribute Weight numeric
+@attribute Class {Male, Female}
+
+@data
+185, 85, Male
+182, 70, Male
+175, 85, Male
+170, 60, Female
+165, 55, Female
